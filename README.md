@@ -8,7 +8,7 @@
 
 ## Project
 
-|[덜지니어스](https://github.com/cesdea/THER_GEINUS_GAME_develop_BE)|[SteamForYou](https://github.com/SteamReviewSearch)|
+|[덜지니어스]([https://github.com/cesdea/THER_GEINUS_GAME_develop_BE](https://github.com/cesdea/THER_GEINUS_GAME_develop_BE/blob/develop/README.md))|[SteamForYou](https://github.com/SteamReviewSearch)|
 |---|---|
 |[<img src="https://github.com/cesdea/cesdea/blob/main/image/THER_GENIUS.png" width="130" height="100">](https://github.com/cesdea/THER_GEINUS_GAME_develop_BE/blob/develop/README.md)|[<img src="https://github.com/cesdea/cesdea/blob/main/image/steamforyou.png" width="130" height="100">](https://github.com/SteamReviewSearch)|
 
